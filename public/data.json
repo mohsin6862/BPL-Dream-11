@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Shakib Al Hasan",
+    "image": "https://example.com/shakib.jpg",
+    "batting_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "rating": 9.5,
+    "price": 120000,
+    "player_type": "All-rounder",
+    "country": "Bangladesh"
+  },
+  {
+    "id": 2,
+    "name": "Virat Kohli",
+    "image": "https://example.com/kohli.jpg",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm medium",
+    "rating": 9.8,
+    "price": 150000,
+    "player_type": "Batsman",
+    "country": "India"
+  },
+  {
+    "id": 3,
+    "name": "Babar Azam",
+    "image": "https://example.com/babar.jpg",
+    "batting_style": "Right-handed",
+    "bowling_style": "Right-arm off break",
+    "rating": 9.3,
+    "price": 140000,
+    "player_type": "Batsman",
+    "country": "Pakistan"
+  },
+  {
+    "id": 4,
+    "name": "Ben Stokes",
+    "image": "https://example.com/stokes.jpg",
+    "batting_style": "Left-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "rating": 9.6,
+    "price": 145000,
+    "player_type": "All-rounder",
+    "country": "England"
+  },
+  {
+    "id": 5,
+    "name": "Mitchell Starc",
+    "image": "https://example.com/starc.jpg",
+    "batting_style": "Left-handed",
+    "bowling_style": "Left-arm fast",
+    "rating": 9.2,
+    "price": 130000,
+    "player_type": "Bowler",
+    "country": "Australia"
+  }
+]

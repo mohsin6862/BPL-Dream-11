@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Shakib Al Hasan",
-    "image": "https://example.com/shakib.jpg",
+    "image": "https://nclcricket.com/wp-content/uploads/2024/09/11-500x500.png",
     "batting_style": "Left-handed",
     "bowling_style": "Slow left-arm orthodox",
     "rating": 9.5,
@@ -13,7 +13,7 @@
   {
     "id": 2,
     "name": "Virat Kohli",
-    "image": "https://example.com/kohli.jpg",
+    "image": "https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/kohli231007.jpg",
     "batting_style": "Right-handed",
     "bowling_style": "Right-arm medium",
     "rating": 9.8,
@@ -24,7 +24,7 @@
   {
     "id": 3,
     "name": "Babar Azam",
-    "image": "https://example.com/babar.jpg",
+    "image": "https://static-files.cricket-australia.pulselive.com/headshots/288/568-camedia.png",
     "batting_style": "Right-handed",
     "bowling_style": "Right-arm off break",
     "rating": 9.3,
@@ -35,7 +35,7 @@
   {
     "id": 4,
     "name": "Ben Stokes",
-    "image": "https://example.com/stokes.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NHa6pgMdYQ-TH2Ujw8opwkrqVHSBcvdyAw&s",
     "batting_style": "Left-handed",
     "bowling_style": "Right-arm fast-medium",
     "rating": 9.6,
@@ -46,7 +46,7 @@
   {
     "id": 5,
     "name": "Mitchell Starc",
-    "image": "https://example.com/starc.jpg",
+    "image": "https://media.assettype.com/gulfnews%2Fimport%2F2019%2F06%2F26%2FAustralia-s-Mitchell-Starc_16b9329c545_large.jpg?w=480&auto=format%2Ccompress&fit=max",
     "batting_style": "Left-handed",
     "bowling_style": "Left-arm fast",
     "rating": 9.2,
